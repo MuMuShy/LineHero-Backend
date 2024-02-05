@@ -1,0 +1,14 @@
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore secret keys and sensitive information (customize this)
+.env
+
+# Ignore log files
+logs/
+
+__pycache__/
